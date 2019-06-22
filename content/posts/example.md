@@ -4,7 +4,6 @@ menu:
   test:
     name: Welcome To Hugo
     weight: 1
-draft: true
 
 ---
 This is a draft You’ll find this post in your `content/posts` directory.
