@@ -4,10 +4,9 @@ menu:
   test:
     name: Welcome To Hugo
     weight: 1
-draft: true
 
 ---
-This is a draft You’ll find this post in your `content/posts` directory.
+You’ll find this post in your `content/posts` directory.
 
 To add new posts, simply add a file in the `content/posts` directory that follows the convention `name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
