@@ -1,5 +1,8 @@
 ---
-title: Welcome to Hugo!
+title: An unzipped Sketch file created .png preview and human-readable .json files.
+  This created a question for us – could our design and development teams collaborate
+  seamlessly? Are we finally to feed design assets directly to the development pipeline
+  and integrate .sketch file at the same time as development
 menu:
   test:
     name: Welcome To Hugo
